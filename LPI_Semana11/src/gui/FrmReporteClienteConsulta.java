@@ -26,6 +26,12 @@ import java.awt.event.ActionListener;
 import java.util.List;
 import java.awt.event.ActionEvent;
 
+/**
+ * 
+ * @author Carlos Cerquin Oropeza
+ *
+ */
+
 public class FrmReporteClienteConsulta extends JFrame implements ActionListener {
 
 	private static final long serialVersionUID = 1L;

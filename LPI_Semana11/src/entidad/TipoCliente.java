@@ -1,4 +1,9 @@
 package entidad;
+/**
+ * 
+ * @author Carlos Cerquin Oropeza
+ *
+ */
 
 public class TipoCliente {
 	

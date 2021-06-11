@@ -1,6 +1,11 @@
 package entidad;
 
 import java.sql.Date;
+/**
+ * 
+ * @author Carlos Cerquin Oropeza
+ *
+ */
 
 public class Cliente {
 	
